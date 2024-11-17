@@ -1,4 +1,3 @@
-"""
 PDF to DOCX Converter using Streamlit
 =====================================
 
@@ -20,4 +19,3 @@ Como usar:
 
 Autor:
 - https://github.com/heliohenriquehfilho
-"""
